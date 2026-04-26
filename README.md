@@ -18,15 +18,14 @@ A filtered version of the original dataset containing 50 unique subjects. This s
 
 Selection Method: Random sampling of 50 eligible subjects.
 
-Link: https://drive.google.com/drive/folders/1DKLONLeIZ-iADMxEvJxAqOTlmsviV-0i?usp=drive_link
+Link: https://drive.google.com/drive/folders/1V9u-7rwWDSRVOUHFLk7GNlv6TLaLORDt?usp=drive_link
 
 ## 3. Frontal ID Images (50 Subjects)
 A curated collection of "ID-style" photos. This dataset extracts exactly one image for each of the 50 subjects, specifically selected for high symmetry (frontal pose), sharpness, and optimal face-to-frame ratio.
 
 Selection Method: MTCNN-based landmark symmetry and Laplacian variance scoring.
 
-Link: https://drive.google.com/drive/folders/1isACuFt-RrZa3kOAoERxfk_4s7m6_ysA?usp=drive_link
-
+Link:  https://drive.google.com/drive/folders/1-pRnnFJucrb4LEuQ8aCgPqXtihtR7svy?usp=drive_link
 ## 4. Driving Videos
 A collection of source videos providing the motion and facial expressions used for animation. These videos serve as the "drivers" for the first-order motion models or deepfake synthesis pipelines.
 
